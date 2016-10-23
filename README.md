@@ -14,6 +14,8 @@
 
 ## Design four
 
+The colours and typorgraphy used for this design is linked to Ed Snowden's background.He used to work for the C.I.A so I used the colours from their badge. As for the typography it has a very corporate look to it to represent him better. I used repetition of the tweet to create the image of the ear with a headphone to show a visualisation of the tweet. 
+
 ![3](https://cloud.githubusercontent.com/assets/22593770/19626989/416ab902-9935-11e6-851f-0ade65d496b0.jpg)
 
 ## Design five
