@@ -14,6 +14,8 @@ The colours for this design are the same as my 4th design. They were chosen to r
 
 ## Design three
 
+This is my third design, I used repetition, continuation and symmetry to show the look of sound waves. I chose gold for the main colour in this image as gold represents success and tirumph which can be shown by the sound waves getting louder and someone hearing. I wanted to use the visual perception principle of continuation as the tweet is a rhetorical question so there may not be an answer just like this design doesn’t have an end.
+
 ![1](https://cloud.githubusercontent.com/assets/22593770/19626984/29bc5c84-9935-11e6-90e2-0c634234708f.jpg)
 
 ## Design four
