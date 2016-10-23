@@ -2,6 +2,8 @@
 
 ## Design one
 
+For this design, I wanted the typography to create the sound waves of a megaphone to show that when the type is getting bigger, the sound would be getting louder. I used a gradual gradient to also represent that it would be getting louder. I chose turquoise as my main colour as it represents communication and clarity. 
+
 ![50](https://cloud.githubusercontent.com/assets/22593770/19626901/3644888e-9933-11e6-9033-f4d1f3208ca9.jpg)
 
 ## Design two
