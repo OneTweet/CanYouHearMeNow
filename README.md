@@ -8,6 +8,7 @@ For this design, I wanted the typography to create the sound waves of a megaphon
 
 ## Design two
 
+The colours for this design are the same as my 4th design. They were chosen to represent both the C.I.A (Ed Snowden used to work for them) and also the American colour. The typography used is very bold to get the message across that he’s frustrated or maybe shouting to be heard. The first thing most people think of with hearing is an ear so I used the shape of an ear to cut out a portion of the text in that shape but you can still easily read the message/tweet.
 ![2](https://cloud.githubusercontent.com/assets/22593770/19626980/16cd8e5e-9935-11e6-9a73-b2a80bcc5502.jpg)
 
 ## Design three
