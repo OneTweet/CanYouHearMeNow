@@ -1,5 +1,22 @@
 # One Tweet - Can you hear me now? 
 
+## Initial ideas
+
+![discard1](https://cloud.githubusercontent.com/assets/22593770/20682728/f9c8077a-b5a0-11e6-8a6d-507fdb524c35.jpg) 
+![discarded1](https://cloud.githubusercontent.com/assets/22593770/20682806/6b30869e-b5a1-11e6-8e1b-9dce180d57a5.jpg)
+![discard1](https://cloud.githubusercontent.com/assets/22593770/20682955/166024de-b5a2-11e6-9f37-e67736ceccfa.jpg)
+![discard1](https://cloud.githubusercontent.com/assets/22593770/20683030/6247bcd6-b5a2-11e6-9505-d9ebca87737f.jpg)
+
+
+
+
+
+
+
+
+
+# Final ideas
+
 ## Design one
 
 For this design, I wanted the typography to create the sound waves of a megaphone to show that when the type is getting bigger, the sound would be getting louder. I used a gradual gradient to also represent that it would be getting louder. I chose turquoise as my main colour as it represents communication and clarity. 
@@ -29,3 +46,5 @@ The colours and typorgraphy used for this design is linked to Ed Snowden's backg
 For my final design I created Ed Snowden out of his tweet. I used repetition again to make the shape and features of his face. I used a bold type so that it would stand out and not create a faint image. The main colour I used for this design is orange as it is the colour of social communication which is linked more to where the tweet came from but also orange is the colour of optimism which links to the meaning of the tweet itself with it getting an answer.
 
 ![4](https://cloud.githubusercontent.com/assets/22593770/19626990/4998fdb4-9935-11e6-92a8-5ba5b6ec7277.jpg)
+![zoom](https://cloud.githubusercontent.com/assets/22593770/20685579/d0e0557c-b5ac-11e6-9988-7c037d002842.jpg)
+
