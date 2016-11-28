@@ -46,5 +46,9 @@ The colours and typorgraphy used for this design is linked to Ed Snowden's backg
 For my final design I created Ed Snowden out of his tweet. I used repetition again to make the shape and features of his face. I used a bold type so that it would stand out and not create a faint image. The main colour I used for this design is orange as it is the colour of social communication which is linked more to where the tweet came from but also orange is the colour of optimism which links to the meaning of the tweet itself with it getting an answer.
 
 ![4](https://cloud.githubusercontent.com/assets/22593770/19626990/4998fdb4-9935-11e6-92a8-5ba5b6ec7277.jpg)
-![zoom](https://cloud.githubusercontent.com/assets/22593770/20685579/d0e0557c-b5ac-11e6-9988-7c037d002842.jpg)
+
+### Close up of Design 5
+
+![zoom](https://cloud.githubusercontent.com/assets/22593770/20685831/ef0bbb4e-b5ad-11e6-8cd8-58afd728eafa.jpg)
+
 
