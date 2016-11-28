@@ -49,6 +49,6 @@ For my final design I created Ed Snowden out of his tweet. I used repetition aga
 
 ### Close up of Design 5
 
-![zoom](https://cloud.githubusercontent.com/assets/22593770/20685831/ef0bbb4e-b5ad-11e6-8cd8-58afd728eafa.jpg)
+![zoom1](https://cloud.githubusercontent.com/assets/22593770/20686025/d0c9ce40-b5ae-11e6-8389-e3ad2325241d.jpg)
 
 
