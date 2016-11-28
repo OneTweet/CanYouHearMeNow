@@ -3,9 +3,12 @@
 ## Initial ideas
 
 ![discard1](https://cloud.githubusercontent.com/assets/22593770/20682728/f9c8077a-b5a0-11e6-8a6d-507fdb524c35.jpg) 
-![discarded1](https://cloud.githubusercontent.com/assets/22593770/20682806/6b30869e-b5a1-11e6-8e1b-9dce180d57a5.jpg)
-![discard1](https://cloud.githubusercontent.com/assets/22593770/20682955/166024de-b5a2-11e6-9f37-e67736ceccfa.jpg)
+![discarded1](https://cloud.githubusercontent.com/assets/22593770/20686086/1cb876ee-b5af-11e6-9f59-bd8092f8498a.jpg)
 ![discard1](https://cloud.githubusercontent.com/assets/22593770/20683030/6247bcd6-b5a2-11e6-9505-d9ebca87737f.jpg)
+![discard1](https://cloud.githubusercontent.com/assets/22593770/20682955/166024de-b5a2-11e6-9f37-e67736ceccfa.jpg)
+![discarded1](https://cloud.githubusercontent.com/assets/22593770/20682806/6b30869e-b5a1-11e6-8e1b-9dce180d57a5.jpg)
+
+
 
 
 
